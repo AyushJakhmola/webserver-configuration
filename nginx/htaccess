@@ -1,0 +1,1984 @@
+location "/login" {
+  rewrite ^(.*)$ "/wp-login.php" redirect;
+}
+
+#location = "/login" { return 301 "$request_uri/wp-login.php"; }
+
+location "/how-to-sell-worn-panties-have-fun" {
+  rewrite ^(.*)$ "/blog/how-to-sell-worn-panties-have-fun" redirect;
+}
+
+location "/buy-sell-used-womens-panties-online" {
+  rewrite ^(.*)$ "/blog/buy-sell-used-womens-panties-online" redirect;
+}
+
+location "/buy-and-sell-used-panties-with-snifffr" {
+  rewrite ^(.*)$ "/blog/buy-and-sell-used-panties-with-snifffr" redirect;
+}
+
+location "/used-panties-for-sale-video-on-used-panties-for-sale-21-june-2018" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-video-on-used-panties-for-sale-21-june-2018" redirect;
+}
+
+location "/used-underwear-video-on-used-underwear-28-june-2018" {
+  rewrite ^(.*)$ "/blog/used-underwear-video-on-used-underwear-28-june-2018" redirect;
+}
+
+location "/used-womens-panties-video-on-used-womens-panties-28-june-2018" {
+  rewrite ^(.*)$ "/blog/used-womens-panties-video-on-used-womens-panties-28-june-2018" redirect;
+}
+
+location "/used-underwear-for-sale-video-on-used-underwear-for-sale-12-july-2018" {
+  rewrite ^(.*)$ "/blog/used-underwear-for-sale-video-on-used-underwear-for-sale-12-july-2018" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-12-july-2018" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-12-july-2018" redirect;
+}
+
+location "/the-ultimate-guide-to-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/the-ultimate-guide-to-selling-used-underwear/" redirect;
+}
+
+location "/worn-panties-for-sale-video-on-worn-panties-for-sale-20-july-2018/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-video-on-worn-panties-for-sale-20-july-2018/" redirect;
+}
+
+location "/sell-worn-panties-video-on-sell-worn-panties-27-july-2018/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-video-on-sell-worn-panties-27-july-2018/" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-27-july-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-27-july-2018/" redirect;
+}
+
+location "/buy-used-underwear-video-on-buy-used-underwear-1-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-video-on-buy-used-underwear-1-august-2018/" redirect;
+}
+
+location "/buy-worn-panties-video-on-buy-worn-panties-1-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-video-on-buy-worn-panties-1-august-2018/" redirect;
+}
+
+location "/get-the-best-of-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/get-the-best-of-used-underwear-for-sale/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-9-august-2018/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-9-august-2018/" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-9-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-9-august-2018/" redirect;
+}
+
+location "/buy-dirty-panties-video-on-buy-dirty-panties-15-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-panties-video-on-buy-dirty-panties-15-august-2018/" redirect;
+}
+
+location "/buy-used-underwear-video-on-buy-used-underwear-15-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-video-on-buy-used-underwear-15-august-2018/" redirect;
+}
+
+location "/dirty-panties-for-sale-video-on-dirty-panties-for-sale-22-august-2018/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-video-on-dirty-panties-for-sale-22-august-2018/" redirect;
+}
+
+location "/buy-worn-panties-video-on-buy-worn-panties-22-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-video-on-buy-worn-panties-22-august-2018/" redirect;
+}
+
+location "/sell-dirty-panties-video-on-sell-dirty-panties-30-august-2018/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-video-on-sell-dirty-panties-30-august-2018/" redirect;
+}
+
+location "/buy-dirty-panties-video-on-buy-dirty-panties-30-august-2018/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-panties-video-on-buy-dirty-panties-30-august-2018/" redirect;
+}
+
+location "/sell-used-panties-online-video-on-sell-used-panties-on-line-7-september-2018/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-video-on-sell-used-panties-on-line-7-september-2018/" redirect;
+}
+
+location "/buy-used-underwear-video-on-buy-used-underwear-7-september-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-video-on-buy-used-underwear-7-september-2018/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-14-september-2018/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-14-september-2018/" redirect;
+}
+
+location "/buy-worn-panties-video-on-buy-worn-panties-14-september-2018/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-video-on-buy-worn-panties-14-september-2018/" redirect;
+}
+
+location "/why-snifffr-is-a-great-marketplace-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/why-snifffr-is-a-great-marketplace-to-buy-used-panties-online/" redirect;
+}
+
+location "/offer-your-used-underwear-for-safe-and-make-good-money/" {
+  rewrite ^(.*)$ "/blog/offer-your-used-underwear-for-safe-and-make-good-money/" redirect;
+}
+
+location "/sell-or-buy-worn-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-or-buy-worn-panties-on-snifffr/" redirect;
+}
+
+location "/the-best-worn-panties-for-sale-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/the-best-worn-panties-for-sale-on-snifffr/" redirect;
+}
+
+location "/buy-dirty-panties-video-on-buy-dirty-panties-24-october-2018/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-panties-video-on-buy-dirty-panties-24-october-2018/" redirect;
+}
+
+location "/used-panties-video-on-used-panties-24-october-2018/" {
+  rewrite ^(.*)$ "/blog/used-panties-video-on-used-panties-24-october-2018/" redirect;
+}
+
+location "/used-panties-for-sale-video-on-used-panties-for-sale-31-october-2018/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-video-on-used-panties-for-sale-31-october-2018/" redirect;
+}
+
+location "/buy-used-underwear-video-on-buy-used-underwear-31-october-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-video-on-buy-used-underwear-31-october-2018/" redirect;
+}
+
+location "/used-underwear-video-on-used-underwear-7th-november-2018/" {
+  rewrite ^(.*)$ "/blog/used-underwear-video-on-used-underwear-7th-november-2018/" redirect;
+}
+
+location "/buy-worn-panties-video-on-buy-worn-panties-7th-november-2018/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-video-on-buy-worn-panties-7th-november-2018/" redirect;
+}
+
+location "/used-womens-panties-video-on-used-womens-panties-15-november-2018/" {
+  rewrite ^(.*)$ "/blog/used-womens-panties-video-on-used-womens-panties-15-november-2018/" redirect;
+}
+
+location "/buy-dirty-panties-video-on-buy-dirty-panties-15-november-2018/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-panties-video-on-buy-dirty-panties-15-november-2018/" redirect;
+}
+
+location "/dirty-panties-for-sale-video-on-dirty-panties-for-sale-23-november-2018/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-video-on-dirty-panties-for-sale-23-november-2018/" redirect;
+}
+
+location "/used-underwear-for-sale-video-on-used-underwear-for-sale-23-november-2018/" {
+  rewrite ^(.*)$ "/blog/used-underwear-for-sale-video-on-used-underwear-for-sale-23-november-2018/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-28-november-2018/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-28-november-2018/" redirect;
+}
+
+location "/selling-used-underwear-video-on-selling-used-underwear-28-november-2018/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-video-on-selling-used-underwear-28-november-2018/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-5-december-2018/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-5-december-2018/" redirect;
+}
+
+location "/sell-worn-panties-video-on-sell-worn-panties-5-december-2018/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-video-on-sell-worn-panties-5-december-2018/" redirect;
+}
+
+location "/buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-online/" redirect;
+}
+
+location "/sell-used-panties-video-on-sell-used-panties-20-july-2018/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-video-on-sell-used-panties-20-july-2018/" redirect;
+}
+
+location "/selling-used-underwear-video-on-selling-used-underwear-5-july-2018/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-video-on-selling-used-underwear-5-july-2018/" redirect;
+}
+
+location "/sell-dirty-panties-video-on-sell-dirty-panties-12-december-2018/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-video-on-sell-dirty-panties-12-december-2018/" redirect;
+}
+
+location "/sell-used-panties-online-sell-used-panties-online-12-december-2018/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-sell-used-panties-online-12-december-2018/" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-13-june-2018/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-13-june-2018/" redirect;
+}
+
+location "/worn-panties-video-on-worn-panties-16-january-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-video-on-worn-panties-16-january-2019/" redirect;
+}
+
+location "/used-panties-for-sale-video-on-used-panties-for-sale-16-january-2019/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-video-on-used-panties-for-sale-16-january-2019/" redirect;
+}
+
+location "/worn-panties-for-sale-video-on-worn-panties-for-sale-23-january-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-video-on-worn-panties-for-sale-23-january-2019/" redirect;
+}
+
+location "/used-underwear-video-on-used-underwear-23-january-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-video-on-used-underwear-23-january-2019/" redirect;
+}
+
+location "/used-womens-panties-video-on-used-womens-panties-30-january-2019/" {
+  rewrite ^(.*)$ "/blog/used-womens-panties-video-on-used-womens-panties-30-january-2019/" redirect;
+}
+
+location "/dirty-panties-for-sale-video-on-dirty-panties-for-sale-30-january-2019/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-video-on-dirty-panties-for-sale-30-january-2019/" redirect;
+}
+
+location "/used-underwear-for-sale-video-on-used-underwear-for-sale-6-february-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-for-sale-video-on-used-underwear-for-sale-6-february-2019/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-6-january-2019/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-video-on-how-do-i-sell-used-panties-6-january-2019/" redirect;
+}
+
+location "/sell-used-panties-video-on-sell-used-panties-13-february-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-video-on-sell-used-panties-13-february-2019/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-how-do-i-buy-used-panties-13-february-2019/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-how-do-i-buy-used-panties-13-february-2019/" redirect;
+}
+
+location "/worn-panties-video-on-worn-panties-5-july-2018/" {
+  rewrite ^(.*)$ "/blog/worn-panties-video-on-worn-panties-5-july-2018/" redirect;
+}
+
+location "/selling-used-underwear-video-on-selling-used-underwear-27-february-2019/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-video-on-selling-used-underwear-27-february-2019/" redirect;
+}
+
+location "/sell-worn-panties-video-on-sell-worn-panties-6-march-2019/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-video-on-sell-worn-panties-6-march-2019/" redirect;
+}
+
+location "/go-for-used-panties-for-sale-to-spice-up-your-sexual-life/" {
+  rewrite ^(.*)$ "/blog/go-for-used-panties-for-sale-to-spice-up-your-sexual-life/" redirect;
+}
+
+location "/enjoy-great-panty-deals-online/" {
+  rewrite ^(.*)$ "/blog/enjoy-great-panty-deals-online/" redirect;
+}
+
+location "/sell-dirty-panties-video-on-sell-dirty-panties-13-march-2019/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-video-on-sell-dirty-panties-13-march-2019/" redirect;
+}
+
+location "/sell-dirty-panties-on-snifffr-video-on-sell-dirty-panties-on-snifffr-13-march-2019/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-on-snifffr-video-on-sell-dirty-panties-on-snifffr-13-march-2019/" redirect;
+}
+
+location "/used-panties-for-sale-video-on-used-panties-for-sale-27-march-2019/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-video-on-used-panties-for-sale-27-march-2019/" redirect;
+}
+
+location "/used-underwear-for-sale-video-on-used-underwear-for-sale-27-march-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-for-sale-video-on-used-underwear-for-sale-27-march-2019/" redirect;
+}
+
+location "/used-womens-panties-video-on-used-womens-panties-3-april-2019/" {
+  rewrite ^(.*)$ "/blog/used-womens-panties-video-on-used-womens-panties-3-april-2019/" redirect;
+}
+
+location "/dirty-panties-for-sale-video-on-dirty-panties-for-sale-3-april-2019/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-video-on-dirty-panties-for-sale-3-april-2019/" redirect;
+}
+
+location "/sell-used-panties-video-on-sell-used-panties-10-april-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-video-on-sell-used-panties-10-april-2019/" redirect;
+}
+
+location "/worn-panties-for-sale-video-on-worn-panties-for-sale-10-april-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-video-on-worn-panties-for-sale-10-april-2019/" redirect;
+}
+
+location "/sell-used-knickers-video-on-sell-used-knickers-24-april-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-knickers-video-on-sell-used-knickers-24-april-2019/" redirect;
+}
+
+location "/used-knickers-for-sale-video-on-used-knickers-for-sale-24-april-2019/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-video-on-used-knickers-for-sale-24-april-2019/" redirect;
+}
+
+location "/109419-2/" {
+  rewrite ^(.*)$ "/blog/109419-2/" redirect;
+}
+
+location "/sell-used-panties-online-video-on-sell-used-panties-online-1-may-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-video-on-sell-used-panties-online-1-may-2019/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-8-may-2019/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-8-may-2019/" redirect;
+}
+
+location "/sell-used-panties-online-video-on-sell-used-panties-online-8-may-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-video-on-sell-used-panties-online-8-may-2019/" redirect;
+}
+
+location "/selling-used-underwear-video-on-selling-used-underwear-15-may-2019/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-video-on-selling-used-underwear-15-may-2019/" redirect;
+}
+
+location "/sell-worn-panties-video-on-sell-worn-panties-15-may-2019/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-video-on-sell-worn-panties-15-may-2019/" redirect;
+}
+
+location "/sell-used-knickers-video-on-sell-used-knickers-22-may-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-knickers-video-on-sell-used-knickers-22-may-2019/" redirect;
+}
+
+location "/used-knickers-for-sale-video-on-used-knickers-for-sale-22-may-2019/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-video-on-used-knickers-for-sale-22-may-2019/" redirect;
+}
+
+location "/buy-used-knickers-video-on-buy-used-knickers-29-may-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-video-on-buy-used-knickers-29-may-2019/" redirect;
+}
+
+location "/used-underwear-video-on-used-underwear-29-may-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-video-on-used-underwear-29-may-2019/" redirect;
+}
+
+location "/buy-used-knickers-video-on-buy-used-knickers-5-june-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-video-on-buy-used-knickers-5-june-2019/" redirect;
+}
+
+location "/used-panty-fetish-video-on-used-panty-fetish-5-june-2019/" {
+  rewrite ^(.*)$ "/blog/used-panty-fetish-video-on-used-panty-fetish-5-june-2019/" redirect;
+}
+
+location "/used-panties-for-sale-on-ebay-video-on-used-panties-for-sale-12-june-2019/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-on-ebay-video-on-used-panties-for-sale-12-june-2019/" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-12-june-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-12-june-2019/" redirect;
+}
+
+location "/worn-panties-video-on-worn-panties-10-july-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-video-on-worn-panties-10-july-2019/" redirect;
+}
+
+location "/used-panties-for-sale-video-on-used-panties-for-sale-10-july-2019/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-video-on-used-panties-for-sale-10-july-2019/" redirect;
+}
+
+location "/buy-used-panties-video-on-buy-used-panties-18-july-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-video-on-buy-used-panties-18-july-2019/" redirect;
+}
+
+location "/used-underwear-video-on-used-underwear-18-july-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-video-on-used-underwear-18-july-2019/" redirect;
+}
+
+location "/used-womens-panties-video-on-used-womens-panties-24-july-2019/" {
+  rewrite ^(.*)$ "/blog/used-womens-panties-video-on-used-womens-panties-24-july-2019/" redirect;
+}
+
+location "/buy-used-underwear-video-on-buy-used-underwear-24-july-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-video-on-buy-used-underwear-24-july-2019/" redirect;
+}
+
+location "/used-underwear-for-sale-video-on-used-underwear-for-sale-31-july-2019/" {
+  rewrite ^(.*)$ "/blog/used-underwear-for-sale-video-on-used-underwear-for-sale-31-july-2019/" redirect;
+}
+
+location "/buy-worn-panties-video-on-buy-worn-panties-31-july-2019/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-video-on-buy-worn-panties-31-july-2019/" redirect;
+}
+
+location "/242209-2/" {
+  rewrite ^(.*)$ "/blog/242209-2/" redirect;
+}
+
+location "/used-panties-for-sale-on-ebay-video-on-used-panties-for-sale-14-august-2019/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-on-ebay-video-on-used-panties-for-sale-14-august-2019/" redirect;
+}
+
+location "/dirty-panties-for-sale-video-on-dirty-panties-for-sale-21-august-2019/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-video-on-dirty-panties-for-sale-21-august-2019/" redirect;
+}
+
+location "/sell-used-panties-video-on-sell-used-panties-28-august-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-video-on-sell-used-panties-28-august-2019/" redirect;
+}
+
+location "/selling-used-underwear-video-on-selling-used-underwear-4-september-2019/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-video-on-selling-used-underwear-4-september-2019/" redirect;
+}
+
+location "/sell-worn-panties-video-on-sell-worn-panties-11-september-2019/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-video-on-sell-worn-panties-11-september-2019/" redirect;
+}
+
+location "/sell-dirty-panties-video-on-sell-dirty-panties-18-september-2019/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-video-on-sell-dirty-panties-18-september-2019/" redirect;
+}
+
+location "/men-wearing-panties-community-video-on-men-wearing-panties-community-18-sept-2019/" {
+  rewrite ^(.*)$ "/blog/men-wearing-panties-community-video-on-men-wearing-panties-community-18-sept-2019/" redirect;
+}
+
+location "/sell-used-panties-online-video-on-sell-used-panties-online-25-september-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-video-on-sell-used-panties-online-25-september-2019/" redirect;
+}
+
+location "/sell-used-knickers-video-on-sell-used-knickers-2-october-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-knickers-video-on-sell-used-knickers-2-october-2019/" redirect;
+}
+
+location "/worn-panties-video-on-worn-panties-16-october-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-video-on-worn-panties-16-october-2019/" redirect;
+}
+
+location "/used-knickers-for-sale-video-on-used-knickers-for-sale-23-october-2019/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-video-on-used-knickers-for-sale-23-october-2019/" redirect;
+}
+
+location "/buy-used-knickers-video-on-buy-used-knickers-30-october-2019/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-video-on-buy-used-knickers-30-october-2019/" redirect;
+}
+
+location "/376802-2/" {
+  rewrite ^(.*)$ "/blog/376802-2/" redirect;
+}
+
+location "/sell-used-knickers-video-on-sell-used-knickers-13-november-2019/" {
+  rewrite ^(.*)$ "/blog/sell-used-knickers-video-on-sell-used-knickers-13-november-2019/" redirect;
+}
+
+location "/worn-panties-for-sale-video-on-worn-panties-for-sale-27-november-2019/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-video-on-worn-panties-for-sale-27-november-2019/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-4-december-2019/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-video-on-how-do-i-buy-used-panties-4-december-2019/" redirect;
+}
+
+location "/used-panty-fetish-video-on-used-panty-fetish-12-december-2019/" {
+  rewrite ^(.*)$ "/blog/used-panty-fetish-video-on-used-panty-fetish-12-december-2019/" redirect;
+}
+
+location "/used-knickers-for-sale-video-on-used-knickers-for-sale-18-december-2019/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-video-on-used-knickers-for-sale-18-december-2019/" redirect;
+}
+
+location "/best-ways-to-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/best-ways-to-sell-used-panties/" redirect;
+}
+
+location "/buy-used-panties-today-and-achieve-a-fantasy-like-no-other/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-today-and-achieve-a-fantasy-like-no-other/" redirect;
+}
+
+location "/why-snifffr-is-your-ultimate-panty-deal-platform/" {
+  rewrite ^(.*)$ "/blog/why-snifffr-is-your-ultimate-panty-deal-platform/" redirect;
+}
+
+location "/enlightening-answer-to-the-question-of-how-do-i-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/enlightening-answer-to-the-question-of-how-do-i-buy-used-panties/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-with-snifffr-marketplace/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-with-snifffr-marketplace/" redirect;
+}
+
+location "/looking-for-a-panty-deal-snifffr-has-got-you-covered/" {
+  rewrite ^(.*)$ "/blog/looking-for-a-panty-deal-snifffr-has-got-you-covered/" redirect;
+}
+
+location "/conveniently-buy-used-underwear-online-at-snifffr/" {
+  rewrite ^(.*)$ "/blog/conveniently-buy-used-underwear-online-at-snifffr/" redirect;
+}
+
+location "/used-panties-benefits-and-tips-to-consider/" {
+  rewrite ^(.*)$ "/blog/used-panties-benefits-and-tips-to-consider/" redirect;
+}
+
+location "/tips-on-buying-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/tips-on-buying-used-panties-online/" redirect;
+}
+
+location "/used-undies-online-marketplace/" {
+  rewrite ^(.*)$ "/blog/used-undies-online-marketplace/" redirect;
+}
+
+location "/buying-used-panties-experience/" {
+  rewrite ^(.*)$ "/blog/buying-used-panties-experience/" redirect;
+}
+
+location "/introduction-to-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/introduction-to-selling-used-panties/" redirect;
+}
+
+location "/excellent-information-on-how-to-sell-wet-panties/" {
+  rewrite ^(.*)$ "/blog/excellent-information-on-how-to-sell-wet-panties/" redirect;
+}
+
+location "/if-you-have-a-used-panties-fetish-satisfy-it-at-snifffr/" {
+  rewrite ^(.*)$ "/blog/if-you-have-a-used-panties-fetish-satisfy-it-at-snifffr/" redirect;
+}
+
+location "/the-rapidly-growing-fetish-of-smelling-used-panties/" {
+  rewrite ^(.*)$ "/blog/the-rapidly-growing-fetish-of-smelling-used-panties/" redirect;
+}
+
+location "/tips-on-how-do-i-buy-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-do-i-buy-used-panties-on-snifffr/" redirect;
+}
+
+location "/why-you-need-to-start-selling-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/why-you-need-to-start-selling-used-underwear-online/" redirect;
+}
+
+location "/what-you-need-to-know-about-selling-and-buying-used-underwear/" {
+  rewrite ^(.*)$ "/blog/what-you-need-to-know-about-selling-and-buying-used-underwear/" redirect;
+}
+
+location "/buy-used-knickers-or-sell-yours-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-or-sell-yours-on-snifffr/" redirect;
+}
+
+location "/the-best-platform-to-sell-used-panties-conveniently/" {
+  rewrite ^(.*)$ "/blog/the-best-platform-to-sell-used-panties-conveniently/" redirect;
+}
+
+location "/why-people-buy-wet-panties/" {
+  rewrite ^(.*)$ "/blog/why-people-buy-wet-panties/" redirect;
+}
+
+location "/buying-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/buying-used-panties-online/" redirect;
+}
+
+location "/who-can-buy-used-knickers/" {
+  rewrite ^(.*)$ "/blog/who-can-buy-used-knickers/" redirect;
+}
+
+location "/how-do-you-sell-dirty-panties/" {
+  rewrite ^(.*)$ "/blog/how-do-you-sell-dirty-panties/" redirect;
+}
+
+location "/the-easiest-way-to-buy-dirty-panties-online/" {
+  rewrite ^(.*)$ "/blog/the-easiest-way-to-buy-dirty-panties-online/" redirect;
+}
+
+location "/what-you-need-to-know-about-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/what-you-need-to-know-about-used-underwear-for-sale/" redirect;
+}
+
+location "/guide-to-buying-used-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/guide-to-buying-used-knickers-for-sale/" redirect;
+}
+
+location "/the-best-way-to-locate-dirty-panties-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/the-best-way-to-locate-dirty-panties-for-sale-online/" redirect;
+}
+
+location "/the-easiest-way-to-buy-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/the-easiest-way-to-buy-used-womens-panties/" redirect;
+}
+
+location "/where-to-sell-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/where-to-sell-worn-knickers/" redirect;
+}
+
+location "/the-best-place-to-find-worn-knickers-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/the-best-place-to-find-worn-knickers-for-sale-online/" redirect;
+}
+
+location "/introduction-to-buy-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/introduction-to-buy-worn-knickers/" redirect;
+}
+
+location "/how-to-buy-used-underwear/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-underwear/" redirect;
+}
+
+location "/tips-to-help-you-sell-dirty-knickers/" {
+  rewrite ^(.*)$ "/blog/tips-to-help-you-sell-dirty-knickers/" redirect;
+}
+
+location "/panty-deal-buy-or-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/panty-deal-buy-or-sell-used-panties/" redirect;
+}
+
+location "/facts-about-dirty-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/facts-about-dirty-knickers-for-sale/" redirect;
+}
+
+location "/the-easiest-way-to-buy-dirty-knickers-online/" {
+  rewrite ^(.*)$ "/blog/the-easiest-way-to-buy-dirty-knickers-online/" redirect;
+}
+
+location "/tips-on-how-to-buy-and-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-to-buy-and-sell-worn-panties/" redirect;
+}
+
+location "/satisfying-your-used-panties-fetish-the-easy-way/" {
+  rewrite ^(.*)$ "/blog/satisfying-your-used-panties-fetish-the-easy-way/" redirect;
+}
+
+location "/trusted-marketplace-to-purchase-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/trusted-marketplace-to-purchase-used-panties-for-sale/" redirect;
+}
+
+location "/buying-and-selling-worn-panties-online/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-worn-panties-online/" redirect;
+}
+
+location "/a-guide-on-how-to-buy-used-panties-from-snifffr-the-1-marketplace-for-used-panties/" {
+  rewrite ^(.*)$ "/blog/a-guide-on-how-to-buy-used-panties-from-snifffr-the-1-marketplace-for-used-panties/" redirect;
+}
+
+location "/enjoy-it-when-you-buy-worn-panties/" {
+  rewrite ^(.*)$ "/blog/enjoy-it-when-you-buy-worn-panties/" redirect;
+}
+
+location "/buying-and-selling-worn-panties-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-worn-panties-with-snifffr/" redirect;
+}
+
+location "/start-making-money-selling-used-underwear-online-today/" {
+  rewrite ^(.*)$ "/blog/start-making-money-selling-used-underwear-online-today/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-for-cash/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-for-cash/" redirect;
+}
+
+location "/sell-wet-panties-on-your-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/sell-wet-panties-on-your-trusted-marketplace/" redirect;
+}
+
+location "/the-trusted-online-marketplace-for-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/the-trusted-online-marketplace-for-used-underwear-for-sale/" redirect;
+}
+
+location "/how-to-sell-used-knickers-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-knickers-with-snifffr/" redirect;
+}
+
+location "/need-to-buy-wet-panties-get-started-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/need-to-buy-wet-panties-get-started-with-snifffr/" redirect;
+}
+
+location "/buy-used-knickers-on-snifffr-information/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-on-snifffr-information/" redirect;
+}
+
+location "/sell-and-buy-used-knickers-on-a-trusted-website-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-and-buy-used-knickers-on-a-trusted-website-snifffr/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-from-a-reliable-used-panties-site/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-from-a-reliable-used-panties-site/" redirect;
+}
+
+location "/your-ultimate-guide-to-sell-dirty-panties-online-successfully/" {
+  rewrite ^(.*)$ "/blog/your-ultimate-guide-to-sell-dirty-panties-online-successfully/" redirect;
+}
+
+location "/how-to-find-dirty-panties-for-sale-quickly/" {
+  rewrite ^(.*)$ "/blog/how-to-find-dirty-panties-for-sale-quickly/" redirect;
+}
+
+location "/sell-and-buy-dirty-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-and-buy-dirty-panties-on-snifffr/" redirect;
+}
+
+location "/best-online-shop-for-buyers-and-sellers-of-used-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/best-online-shop-for-buyers-and-sellers-of-used-knickers-for-sale/" redirect;
+}
+
+location "/buy-used-underwear-and-fulfill-your-secret-passions/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-and-fulfill-your-secret-passions/" redirect;
+}
+
+location "/irresistible-worn-panties/" {
+  rewrite ^(.*)$ "/blog/irresistible-worn-panties/" redirect;
+}
+
+location "/how-to-buy-used-panties-online-anonymously/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-panties-online-anonymously/" redirect;
+}
+
+location "/sell-used-panties-in-a-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-in-a-trusted-marketplace/" redirect;
+}
+
+location "/how-to-start-a-used-underwear-business/" {
+  rewrite ^(.*)$ "/blog/how-to-start-a-used-underwear-business/" redirect;
+}
+
+location "/why-you-need-to-start-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/why-you-need-to-start-selling-used-panties/" redirect;
+}
+
+location "/sell-used-panties-online-the-easy-way/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-online-the-easy-way/" redirect;
+}
+
+location "/trust-marketplace-to-buy-and-sell-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/trust-marketplace-to-buy-and-sell-used-womens-panties/" redirect;
+}
+
+location "/information-on-ways-to-buy-or-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/information-on-ways-to-buy-or-sell-worn-panties/" redirect;
+}
+
+location "/why-people-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/why-people-buy-used-panties-online/" redirect;
+}
+
+location "/easiest-way-to-buy-used-panties-anonymously-online/" {
+  rewrite ^(.*)$ "/blog/easiest-way-to-buy-used-panties-anonymously-online/" redirect;
+}
+
+location "/the-best-used-panty-fetish-website/" {
+  rewrite ^(.*)$ "/blog/the-best-used-panty-fetish-website/" redirect;
+}
+
+location "/enlightening-details-on-a-simple-way-to-get-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/enlightening-details-on-a-simple-way-to-get-used-panties-for-sale/" redirect;
+}
+
+location "/enlightening-details-on-the-ideal-way-to-buy-worn-panties/" {
+  rewrite ^(.*)$ "/blog/enlightening-details-on-the-ideal-way-to-buy-worn-panties/" redirect;
+}
+
+location "/the-best-online-marketplace-for-buying-worn-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/the-best-online-marketplace-for-buying-worn-panties-for-sale/" redirect;
+}
+
+location "/snifffr-the-fastest-growing-marketplace-for-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/snifffr-the-fastest-growing-marketplace-for-used-underwear-for-sale/" redirect;
+}
+
+location "/the-best-website-for-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/the-best-website-for-selling-used-underwear/" redirect;
+}
+
+location "/reasons-snifffr-is-ideal-for-buying-or-listing-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/reasons-snifffr-is-ideal-for-buying-or-listing-dirty-panties-for-sale/" redirect;
+}
+
+location "/looking-to-make-money-sell-dirty-panties-today/" {
+  rewrite ^(.*)$ "/blog/looking-to-make-money-sell-dirty-panties-today/" redirect;
+}
+
+location "/buy-used-knickers-online-from-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-knickers-online-from-snifffr/" redirect;
+}
+
+location "/where-to-buy-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/where-to-buy-used-underwear-online/" redirect;
+}
+
+location "/sell-used-panties-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-with-snifffr/" redirect;
+}
+
+location "/where-to-buy-and-sell-used-knickers/" {
+  rewrite ^(.*)$ "/blog/where-to-buy-and-sell-used-knickers/" redirect;
+}
+
+location "/why-do-men-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/why-do-men-buy-used-panties/" redirect;
+}
+
+location "/how-to-buy-used-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-knickers-for-sale/" redirect;
+}
+
+location "/looking-where-to-buy-dirty-panties-look-no-further/" {
+  rewrite ^(.*)$ "/blog/looking-where-to-buy-dirty-panties-look-no-further/" redirect;
+}
+
+location "/get-your-pair-of-used-womens-panties-online-today/" {
+  rewrite ^(.*)$ "/blog/get-your-pair-of-used-womens-panties-online-today/" redirect;
+}
+
+location "/reasons-why-ladies-offer-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/reasons-why-ladies-offer-dirty-panties-for-sale/" redirect;
+}
+
+location "/a-great-website-to-find-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/a-great-website-to-find-used-underwear-for-sale/" redirect;
+}
+
+location "/what-you-need-to-know-when-you-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/what-you-need-to-know-when-you-sell-worn-panties/" redirect;
+}
+
+location "/buying-used-knickers-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/buying-used-knickers-for-sale-online/" redirect;
+}
+
+location "/get-kinky-with-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/get-kinky-with-used-panties-for-sale/" redirect;
+}
+
+location "/information-on-how-do-i-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/information-on-how-do-i-sell-used-panties/" redirect;
+}
+
+location "/all-you-need-to-know-before-buying-or-selling-worn-panties/" {
+  rewrite ^(.*)$ "/blog/all-you-need-to-know-before-buying-or-selling-worn-panties/" redirect;
+}
+
+location "/buy-used-panties-all-around-the-world/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-all-around-the-world/" redirect;
+}
+
+location "/tips-to-buying-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/tips-to-buying-used-underwear-for-sale/" redirect;
+}
+
+location "/why-snifffr-is-the-best-place-to-find-worn-panties-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/why-snifffr-is-the-best-place-to-find-worn-panties-for-sale-online/" redirect;
+}
+
+location "/where-to-find-great-dirty-panties-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/where-to-find-great-dirty-panties-for-sale-online/" redirect;
+}
+
+location "/most-effective-techniques-to-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/most-effective-techniques-to-sell-used-panties-online/" redirect;
+}
+
+location "/large-marketplace-for-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/large-marketplace-for-used-womens-panties/" redirect;
+}
+
+location "/how-to-make-money-by-selling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/how-to-make-money-by-selling-used-panties-online/" redirect;
+}
+
+location "/guide-to-buy-used-knickers-online/" {
+  rewrite ^(.*)$ "/blog/guide-to-buy-used-knickers-online/" redirect;
+}
+
+location "/features-of-your-ideal-platform-to-sell-used-knickers/" {
+  rewrite ^(.*)$ "/blog/features-of-your-ideal-platform-to-sell-used-knickers/" redirect;
+}
+
+location "/buy-used-panties-feed-that-fetish/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-feed-that-fetish/" redirect;
+}
+
+location "/fast-tips-on-how-to-buy-used-underwear/" {
+  rewrite ^(.*)$ "/blog/fast-tips-on-how-to-buy-used-underwear/" redirect;
+}
+
+location "/how-to-sell-dirty-panties-generate-money-online/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-dirty-panties-generate-money-online/" redirect;
+}
+
+location "/is-selling-used-underwear-possible/" {
+  rewrite ^(.*)$ "/blog/is-selling-used-underwear-possible/" redirect;
+}
+
+location "/used-panties-for-sale-made-easy/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-made-easy/" redirect;
+}
+
+location "/where-and-how-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/where-and-how-to-buy-used-panties-online/" redirect;
+}
+
+location "/why-photos-are-imperative-to-sell-worn-panties-online/" {
+  rewrite ^(.*)$ "/blog/why-photos-are-imperative-to-sell-worn-panties-online/" redirect;
+}
+
+location "/your-comprehensive-answer-to-how-do-i-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/your-comprehensive-answer-to-how-do-i-buy-used-panties/" redirect;
+}
+
+location "/where-to-find-the-best-used-underwear-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/where-to-find-the-best-used-underwear-for-sale-online/" redirect;
+}
+
+location "/trusted-marketplace-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/trusted-marketplace-to-buy-used-panties-online/" redirect;
+}
+
+location "/is-it-possible-to-buy-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/is-it-possible-to-buy-used-underwear-online/" redirect;
+}
+
+location "/your-ultimate-website-to-list-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/your-ultimate-website-to-list-used-underwear-for-sale/" redirect;
+}
+
+location "/worn-panties-for-sale-great-way-to-make-money/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-great-way-to-make-money/" redirect;
+}
+
+location "/trustworthy-worn-panties-marketplace/" {
+  rewrite ^(.*)$ "/blog/trustworthy-worn-panties-marketplace/" redirect;
+}
+
+location "/the-ultimate-guide-to-selling-used-womens-panties-online/" {
+  rewrite ^(.*)$ "/blog/the-ultimate-guide-to-selling-used-womens-panties-online/" redirect;
+}
+
+location "/buying-selling-worn-panties-online-at-snifffr/" {
+  rewrite ^(.*)$ "/blog/buying-selling-worn-panties-online-at-snifffr/" redirect;
+}
+
+location "/the-ultimate-guide-on-how-to-sell-used-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/the-ultimate-guide-on-how-to-sell-used-panties-online-with-snifffr/" redirect;
+}
+
+location "/selling-used-panties-on-a-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/selling-used-panties-on-a-trusted-marketplace/" redirect;
+}
+
+location "/strategy-to-selling-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/strategy-to-selling-used-underwear-online/" redirect;
+}
+
+location "/how-to-buy-and-sell-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-and-sell-used-panties-on-snifffr/" redirect;
+}
+
+location "/why-is-selling-used-panties-online-a-lucrative-business-nowadays/" {
+  rewrite ^(.*)$ "/blog/why-is-selling-used-panties-online-a-lucrative-business-nowadays/" redirect;
+}
+
+location "/buy-used-panties-online-article/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-online-article/" redirect;
+}
+
+location "/buy-and-sell-worn-panties-anonymously-and-quickly/" {
+  rewrite ^(.*)$ "/blog/buy-and-sell-worn-panties-anonymously-and-quickly/" redirect;
+}
+
+location "/things-you-need-to-know-about-buying-and-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/things-you-need-to-know-about-buying-and-selling-used-underwear/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-online-you-might-wonder/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-online-you-might-wonder/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-its-surprisingly-easy/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-its-surprisingly-easy/" redirect;
+}
+
+location "/information-on-how-to-sell-and-buy-dirty-panties/" {
+  rewrite ^(.*)$ "/blog/information-on-how-to-sell-and-buy-dirty-panties/" redirect;
+}
+
+location "/snifffr-your-ultimate-place-to-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/snifffr-your-ultimate-place-to-sell-used-panties-online/" redirect;
+}
+
+location "/how-to-buy-used-panties-online-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-panties-online-on-snifffr/" redirect;
+}
+
+location "/dirty-panties-for-sale-online-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-online-on-snifffr/" redirect;
+}
+
+location "/best-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/best-used-panties-on-snifffr/" redirect;
+}
+
+location "/can-i-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/can-i-sell-used-panties-online/" redirect;
+}
+
+location "/buying-worn-panties-on-snifffr-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/buying-worn-panties-on-snifffr-trusted-marketplace/" redirect;
+}
+
+location "/buying-and-selling-used-womens-panties-online/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-used-womens-panties-online/" redirect;
+}
+
+location "/buying-and-selling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-used-panties-online/" redirect;
+}
+
+location "/buy-used-underwear-online-at-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-online-at-snifffr/" redirect;
+}
+
+location "/how-to-buy-dirty-panties-anonymously-online/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-dirty-panties-anonymously-online/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-on-snifffr/" redirect;
+}
+
+location "/ever-asked-how-do-i-sell-used-panties-heres-how/" {
+  rewrite ^(.*)$ "/blog/ever-asked-how-do-i-sell-used-panties-heres-how/" redirect;
+}
+
+location "/get-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/get-dirty-panties-for-sale/" redirect;
+}
+
+location "/tips-that-can-help-you-in-buying-and-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/tips-that-can-help-you-in-buying-and-selling-used-underwear/" redirect;
+}
+
+location "/why-buy-used-panties-for-sale-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/why-buy-used-panties-for-sale-on-snifffr/" redirect;
+}
+
+location "/where-to-sell-dirty-panties/" {
+  rewrite ^(.*)$ "/blog/where-to-sell-dirty-panties/" redirect;
+}
+
+location "/used-underwear-fetishes/" {
+  rewrite ^(.*)$ "/blog/used-underwear-fetishes/" redirect;
+}
+
+location "/used-panties-for-sale-on-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-on-trusted-marketplace/" redirect;
+}
+
+location "/why-used-underwear-for-sale-are-popular/" {
+  rewrite ^(.*)$ "/blog/why-used-underwear-for-sale-are-popular/" redirect;
+}
+
+location "/sell-worn-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-worn-panties-on-snifffr/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-online-anonymously/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-online-anonymously/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-anonymously-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-anonymously-on-snifffr/" redirect;
+}
+
+location "/why-you-need-to-buy-used-panties-online-at-snifffr/" {
+  rewrite ^(.*)$ "/blog/why-you-need-to-buy-used-panties-online-at-snifffr/" redirect;
+}
+
+location "/why-you-need-to-buy-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/why-you-need-to-buy-used-womens-panties/" redirect;
+}
+
+location "/where-to-get-worn-panties-for-sale-2/" {
+  rewrite ^(.*)$ "/blog/where-to-get-worn-panties-for-sale-2/" redirect;
+}
+
+location "/things-to-know-before-you-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/things-to-know-before-you-buy-used-panties/" redirect;
+}
+
+location "/reasons-buyers-and-sellers-of-used-panties-choose-snifffr/" {
+  rewrite ^(.*)$ "/blog/reasons-buyers-and-sellers-of-used-panties-choose-snifffr/" redirect;
+}
+
+location "/how-to-sell-used-panties-online-through-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-panties-online-through-snifffr/" redirect;
+}
+
+location "/buy-sell-worn-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-sell-worn-panties-on-snifffr/" redirect;
+}
+
+location "/your-ultimate-website-to-buy-used-panties-anonymously/" {
+  rewrite ^(.*)$ "/blog/your-ultimate-website-to-buy-used-panties-anonymously/" redirect;
+}
+
+location "/where-to-get-used-panties-for-sale-online/" {
+  rewrite ^(.*)$ "/blog/where-to-get-used-panties-for-sale-online/" redirect;
+}
+
+location "/the-best-online-platform-to-buy-worn-panties/" {
+  rewrite ^(.*)$ "/blog/the-best-online-platform-to-buy-worn-panties/" redirect;
+}
+
+location "/buy-used-underwear-from-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-from-snifffr/" redirect;
+}
+
+location "/buy-dirty-panties-anonymously-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-panties-anonymously-on-snifffr/" redirect;
+}
+
+location "/trusted-marketplace-to-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/trusted-marketplace-to-sell-used-panties-online/" redirect;
+}
+
+location "/find-used-panties-for-sale-on-snifffr-and-make-an-easy-purchase/" {
+  rewrite ^(.*)$ "/blog/find-used-panties-for-sale-on-snifffr-and-make-an-easy-purchase/" redirect;
+}
+
+location "/sell-dirty-panties-around-the-world/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-around-the-world/" redirect;
+}
+
+location "/buy-sexy-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/buy-sexy-used-underwear-online/" redirect;
+}
+
+location "/marketplace-for-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/marketplace-for-dirty-panties-for-sale/" redirect;
+}
+
+location "/why-buy-dirty-panties/" {
+  rewrite ^(.*)$ "/blog/why-buy-dirty-panties/" redirect;
+}
+
+location "/selling-used-underwear-anonymously-and-safely-online/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-anonymously-and-safely-online/" redirect;
+}
+
+location "/buy-used-underwear-anonymously-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-underwear-anonymously-on-snifffr/" redirect;
+}
+
+location "/buy-used-panties-online-real-panty-girls-are-on-the-waiting/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-online-real-panty-girls-are-on-the-waiting/" redirect;
+}
+
+location "/buy-used-panties-at-snifffr-a-contemporary-marketplace-for-fetishes/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-at-snifffr-a-contemporary-marketplace-for-fetishes/" redirect;
+}
+
+location "/how-to-buy-and-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-and-sell-worn-panties/" redirect;
+}
+
+location "/how-to-buy-dirty-panties-online/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-dirty-panties-online/" redirect;
+}
+
+location "/sell-used-panties-easily-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-used-panties-easily-with-snifffr/" redirect;
+}
+
+location "/where-and-how-to-buy-used-panties-2/" {
+  rewrite ^(.*)$ "/blog/where-and-how-to-buy-used-panties-2/" redirect;
+}
+
+location "/the-best-website-to-buy-worn-panties/" {
+  rewrite ^(.*)$ "/blog/the-best-website-to-buy-worn-panties/" redirect;
+}
+
+location "/where-to-buy-worn-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/where-to-buy-worn-panties-for-sale/" redirect;
+}
+
+location "/where-and-how-to-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/where-and-how-to-buy-used-panties/" redirect;
+}
+
+location "/selling-used-panties-getting-started/" {
+  rewrite ^(.*)$ "/blog/selling-used-panties-getting-started/" redirect;
+}
+
+location "/how-to-sell-used-panties-online-and-make-big-bucks/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-panties-online-and-make-big-bucks/" redirect;
+}
+
+location "/uncover-the-beauty-of-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/uncover-the-beauty-of-used-womens-panties/" redirect;
+}
+
+location "/discover-how-to-buy-and-sell-used-panties-online-discreetly/" {
+  rewrite ^(.*)$ "/blog/discover-how-to-buy-and-sell-used-panties-online-discreetly/" redirect;
+}
+
+location "/all-you-need-to-know-about-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/all-you-need-to-know-about-used-panties-for-sale/" redirect;
+}
+
+location "/you-can-sell-dirty-panties-online-and-make-lots-of-money/" {
+  rewrite ^(.*)$ "/blog/you-can-sell-dirty-panties-online-and-make-lots-of-money/" redirect;
+}
+
+location "/why-is-there-a-demand-for-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/why-is-there-a-demand-for-dirty-panties-for-sale/" redirect;
+}
+
+location "/buying-and-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-used-underwear/" redirect;
+}
+
+location "/an-overview-of-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/an-overview-of-used-underwear-for-sale/" redirect;
+}
+
+location "/buy-and-sell-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/buy-and-sell-used-womens-panties/" redirect;
+}
+location "/where-how-to-sell-worn-panties-484/" {
+  rewrite ^(.*)$ "/blog/where-how-to-sell-worn-panties-484/" redirect;
+}
+
+location "/where-to-buy-worn-panties/" {
+  rewrite ^(.*)$ "/blog/where-to-buy-worn-panties/" redirect;
+}
+
+location "/where-to-get-worn-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/where-to-get-worn-panties-for-sale/" redirect;
+}
+
+location "/buying-and-selling-worn-panties-fetish/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-worn-panties-fetish/" redirect;
+}
+
+location "/why-should-you-sell-and-buy-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/why-should-you-sell-and-buy-used-panties-on-snifffr/" redirect;
+}
+
+location "/how-to-sell-used-panties-anonymously/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-panties-anonymously/" redirect;
+}
+
+location "/why-snifffr-is-the-best-site-for-you-to-sell-and-buy-used-underwear/" {
+  rewrite ^(.*)$ "/blog/why-snifffr-is-the-best-site-for-you-to-sell-and-buy-used-underwear/" redirect;
+}
+
+location "/sell-and-buy-used-underwear-on-snifffr.com/" {
+  rewrite ^(.*)$ "/blog/sell-and-buy-used-underwear-on-snifffr.com/" redirect;
+}
+
+location "/discover-how-to-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/discover-how-to-sell-used-panties/" redirect;
+}
+
+location "/buying-used-underwear-online-discreetly/" {
+  rewrite ^(.*)$ "/blog/buying-used-underwear-online-discreetly/" redirect;
+}
+
+location "/selling-used-underwear-anonymously-on-sniffr/" {
+  rewrite ^(.*)$ "/blog/selling-used-underwear-anonymously-on-sniffr/" redirect;
+}
+
+location "/selling-purchasing-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/selling-purchasing-used-panties-for-sale/" redirect;
+}
+
+location "/sell-buy-used-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/sell-buy-used-panties-online-with-snifffr/" redirect;
+}
+
+location "/earn-some-extra-dollars-with-used-womens-panties/" {
+  rewrite ^(.*)$ "/blog/earn-some-extra-dollars-with-used-womens-panties/" redirect;
+}
+
+location "/platform-for-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/platform-for-selling-used-underwear/" redirect;
+}
+
+location "/massive-collection-of-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/massive-collection-of-used-panties-for-sale/" redirect;
+}
+
+location "/marketplace-to-sell-used-underwear/" {
+  rewrite ^(.*)$ "/blog/marketplace-to-sell-used-underwear/" redirect;
+}
+
+location "/how-to-sell-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-panties-on-snifffr/" redirect;
+}
+
+location "/guidelines-on-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/guidelines-on-used-panties-for-sale/" redirect;
+}
+
+location "/snifffr-the-best-website-for-buying-and-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/snifffr-the-best-website-for-buying-and-selling-used-underwear/" redirect;
+}
+
+location "/the-world-best-marketplace-to-buy-used-underwear/" {
+  rewrite ^(.*)$ "/blog/the-world-best-marketplace-to-buy-used-underwear/" redirect;
+}
+
+location "/buy-used-panties-underwear/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-underwear/" redirect;
+}
+
+location "/how-to-buy-dirty-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-dirty-knickers-for-sale/" redirect;
+}
+
+location "/ebonybbwangela/" {
+  rewrite ^(.*)$ "/blog/ebonybbwangela/" redirect;
+}
+
+location "/tips-on-how-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-to-buy-used-panties-online/" redirect;
+}
+
+location "/information-on-effectively-selling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/information-on-effectively-selling-used-panties-online/" redirect;
+}
+
+location "/diy-tips-and-advice-on-how-to-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/diy-tips-and-advice-on-how-to-sell-worn-panties/" redirect;
+}
+
+location "/a-guide-to-buying-and-selling-used-women-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/a-guide-to-buying-and-selling-used-women-panties-on-snifffr/" redirect;
+}
+
+location "/tips-on-how-to-buy-dirty-panties-online/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-to-buy-dirty-panties-online/" redirect;
+}
+
+location "/helpful-hints-when-buying-used-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/helpful-hints-when-buying-used-knickers-for-sale/" redirect;
+}
+
+location "/how-to-purchase-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/how-to-purchase-used-panties-online/" redirect;
+}
+
+location "/buying-used-panties-on-the-internet/" {
+  rewrite ^(.*)$ "/blog/buying-used-panties-on-the-internet/" redirect;
+}
+
+location "/tips-for-beginners-on-buying-used-panties/" {
+  rewrite ^(.*)$ "/blog/tips-for-beginners-on-buying-used-panties/" redirect;
+}
+
+location "/everything-you-need-to-know-about-buying-used-underwear/" {
+  rewrite ^(.*)$ "/blog/everything-you-need-to-know-about-buying-used-underwear/" redirect;
+}
+
+location "/insider-tips-for-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/insider-tips-for-selling-used-panties/" redirect;
+}
+
+location "/helpful-hints-to-buy-used-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/helpful-hints-to-buy-used-panties-for-sale/" redirect;
+}
+
+location "/helpful-tips-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/helpful-tips-to-buy-used-panties-online/" redirect;
+}
+
+location "/best-place-to-buy-and-sell-used-womens-panties-discreetly/" {
+  rewrite ^(.*)$ "/blog/best-place-to-buy-and-sell-used-womens-panties-discreetly/" redirect;
+}
+
+location "/dirty-knickers-for-sale-on-a-reliable-platform/" {
+  rewrite ^(.*)$ "/blog/dirty-knickers-for-sale-on-a-reliable-platform/" redirect;
+}
+
+location "/dirty-socks-for-sale-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/dirty-socks-for-sale-on-snifffr/" redirect;
+}
+
+location "/helpful-information-on-the-used-socks-fetish/" {
+  rewrite ^(.*)$ "/blog/helpful-information-on-the-used-socks-fetish/" redirect;
+}
+
+location "/sell-used-knickers-successfully-online/" {
+  rewrite ^(.*)$ "/blog/sell-used-knickers-successfully-online/" redirect;
+}
+
+location "/sell-wet-panties-online-discreetly-online/" {
+  rewrite ^(.*)$ "/blog/sell-wet-panties-online-discreetly-online/" redirect;
+}
+
+location "/smelling-used-panties-fetish/" {
+  rewrite ^(.*)$ "/blog/smelling-used-panties-fetish/" redirect;
+}
+
+location "/helpful-tips-on-dirty-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/helpful-tips-on-dirty-panties-for-sale/" redirect;
+}
+
+location "/everything-to-know-about-selling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/everything-to-know-about-selling-used-panties-online/" redirect;
+}
+
+location "/helpful-tips-buying-selling-used-knickers-online/" {
+  rewrite ^(.*)$ "/blog/helpful-tips-buying-selling-used-knickers-online/" redirect;
+}
+
+location "/how-to-sell-dirty-panties-for-money/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-dirty-panties-for-money/" redirect;
+}
+
+location "/the-best-way-to-sell-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/the-best-way-to-sell-used-underwear-online/" redirect;
+}
+
+location "/ultimate-guide-to-selling-your-used-panties-for-money/" {
+  rewrite ^(.*)$ "/blog/ultimate-guide-to-selling-your-used-panties-for-money/" redirect;
+}
+
+location "/how-to-make-it-dealing-in-worn-panties-for-sale/" {
+  rewrite ^(.*)$ "/blog/how-to-make-it-dealing-in-worn-panties-for-sale/" redirect;
+}
+
+location "/best-tips-on-how-to-sell-worn-knickers-online/" {
+  rewrite ^(.*)$ "/blog/best-tips-on-how-to-sell-worn-knickers-online/" redirect;
+}
+
+location "/sell-dirty-knickers-on-a-reliable-platform/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-knickers-on-a-reliable-platform/" redirect;
+}
+
+location "/interesting-facts-about-buying-and-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/interesting-facts-about-buying-and-selling-used-underwear/" redirect;
+}
+
+location "/how-to-make-money-selling-worn-panties/" {
+  rewrite ^(.*)$ "/blog/how-to-make-money-selling-worn-panties/" redirect;
+}
+
+location "/buy-worn-knickers-today-on-a-discrete-platform-that-has-a-variety-of-attention-grasping-options/" {
+  rewrite ^(.*)$ "/blog/buy-worn-knickers-today-on-a-discrete-platform-that-has-a-variety-of-attention-grasping-options/" redirect;
+}
+
+location "/incredible-tips-on-buying-and-selling-worn-panties/" {
+  rewrite ^(.*)$ "/blog/incredible-tips-on-buying-and-selling-worn-panties/" redirect;
+}
+
+location "/how-do-i-effectively-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/how-do-i-effectively-buy-used-panties/" redirect;
+}
+
+location "/five-ways-to-buy-dirty-knickers-safely/" {
+  rewrite ^(.*)$ "/blog/five-ways-to-buy-dirty-knickers-safely/" redirect;
+}
+
+location "/useful-information-on-how-to-buy-wet-panties/" {
+  rewrite ^(.*)$ "/blog/useful-information-on-how-to-buy-wet-panties/" redirect;
+}
+
+location "/are-you-looking-to-sell-used-panties-anonymously/" {
+  rewrite ^(.*)$ "/blog/are-you-looking-to-sell-used-panties-anonymously/" redirect;
+}
+
+location "/looking-to-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/looking-to-buy-used-panties-online/" redirect;
+}
+
+location "/ultimate-guide-on-selling-and-buying-used-panties/" {
+  rewrite ^(.*)$ "/blog/ultimate-guide-on-selling-and-buying-used-panties/" redirect;
+}
+
+location "/helpful-advice-to-sell-your-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/helpful-advice-to-sell-your-used-panties-online/" redirect;
+}
+
+location "/online-used-socks-vending-tips/" {
+  rewrite ^(.*)$ "/blog/online-used-socks-vending-tips/" redirect;
+}
+
+location "/how-to-sell-your-used-socks-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-your-used-socks-with-snifffr/" redirect;
+}
+
+location "/how-to-buy-used-socks-online/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-socks-online/" redirect;
+}
+
+location "/advice-on-how-to-sell-dirty-socks-for-money/" {
+  rewrite ^(.*)$ "/blog/advice-on-how-to-sell-dirty-socks-for-money/" redirect;
+}
+
+location "/an-easy-way-to-sell-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/an-easy-way-to-sell-worn-knickers/" redirect;
+}
+
+location "/a-reliable-platform-to-buy-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/a-reliable-platform-to-buy-worn-knickers/" redirect;
+}
+
+location "/diy-tips-for-dirty-knickers-for-sale-2/" {
+  rewrite ^(.*)$ "/blog/diy-tips-for-dirty-knickers-for-sale-2/" redirect;
+}
+
+location "/sell-dirty-knickers-and-earn-money/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-knickers-and-earn-money/" redirect;
+}
+
+location "/why-and-how-to-sell-worn-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/why-and-how-to-sell-worn-knickers-for-sale/" redirect;
+}
+
+location "/diy-tips-for-dirty-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/diy-tips-for-dirty-knickers-for-sale/" redirect;
+}
+
+location "/how-to-buy-dirty-knickers-online/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-dirty-knickers-online/" redirect;
+}
+
+location "/how-to-sell-used-knickers-online-anonymously/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-used-knickers-online-anonymously/" redirect;
+}
+
+location "/great-advice-to-sell-your-wet-panties/" {
+  rewrite ^(.*)$ "/blog/great-advice-to-sell-your-wet-panties/" redirect;
+}
+
+location "/understanding-the-buying-and-selling-of-used-panties-fetish/" {
+  rewrite ^(.*)$ "/blog/understanding-the-buying-and-selling-of-used-panties-fetish/" redirect;
+}
+
+location "/buying-or-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/buying-or-selling-used-panties/" redirect;
+}
+
+location "/what-you-should-know-about-smelling-used-panties-business/" {
+  rewrite ^(.*)$ "/blog/what-you-should-know-about-smelling-used-panties-business/" redirect;
+}
+
+location "/a-simple-guide-to-buy-wet-panties-online/" {
+  rewrite ^(.*)$ "/blog/a-simple-guide-to-buy-wet-panties-online/" redirect;
+}
+
+location "/helpful-advice-on-used-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/helpful-advice-on-used-knickers-for-sale/" redirect;
+}
+
+location "/how-to-buy-used-knickers-the-right-way/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-knickers-the-right-way/" redirect;
+}
+
+location "/helpful-tips-on-how-do-i-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/helpful-tips-on-how-do-i-sell-used-panties/" redirect;
+}
+
+location "/do-you-want-to-buy-used-panties-get-them-now/" {
+  rewrite ^(.*)$ "/blog/do-you-want-to-buy-used-panties-get-them-now/" redirect;
+}
+
+location "/looking-to-sell-dirty-parties-online-read-this-blog-post/" {
+  rewrite ^(.*)$ "/blog/looking-to-sell-dirty-parties-online-read-this-blog-post/" redirect;
+}
+
+location "/useful-information-how-do-i-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/useful-information-how-do-i-buy-used-panties/" redirect;
+}
+
+location "/tips-to-sell-dirty-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/tips-to-sell-dirty-panties-on-snifffr/" redirect;
+}
+
+location "/tips-for-buying-and-selling-used-underwear-safely/" {
+  rewrite ^(.*)$ "/blog/tips-for-buying-and-selling-used-underwear-safely/" redirect;
+}
+
+location "/buying-and-selling-used-underwear-2/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-used-underwear-2/" redirect;
+}
+
+location "/what-to-look-for-when-buying-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/what-to-look-for-when-buying-used-underwear-for-sale/" redirect;
+}
+
+location "/used-panties-in-the-adult-industry-as-a-fetish/" {
+  rewrite ^(.*)$ "/blog/used-panties-in-the-adult-industry-as-a-fetish/" redirect;
+}
+
+location "/ultimate-guide-for-starting-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/ultimate-guide-for-starting-used-panties-online/" redirect;
+}
+
+location "/how-to-properly-buy-worn-panties-cheap/" {
+  rewrite ^(.*)$ "/blog/how-to-properly-buy-worn-panties-cheap/" redirect;
+}
+
+location "/handy-tips-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/handy-tips-sell-used-panties-online/" redirect;
+}
+
+location "/diy-tips-for-selling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/diy-tips-for-selling-used-panties-online/" redirect;
+}
+
+location "/tips-when-selling-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/tips-when-selling-used-underwear-online/" redirect;
+}
+
+location "/the-fetish-of-buying-used-socks/" {
+  rewrite ^(.*)$ "/blog/the-fetish-of-buying-used-socks/" redirect;
+}
+
+location "/how-much-should-you-sell-your-worn-panties/" {
+  rewrite ^(.*)$ "/blog/how-much-should-you-sell-your-worn-panties/" redirect;
+}
+
+location "/selling-used-socks-as-a-fetish-tool/" {
+  rewrite ^(.*)$ "/blog/selling-used-socks-as-a-fetish-tool/" redirect;
+}
+
+location "/buy-used-womens-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-womens-panties-on-snifffr/" redirect;
+}
+
+location "/steps-to-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/steps-to-selling-used-panties/" redirect;
+}
+
+location "/buy-or-sell-used-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-or-sell-used-panties-online-with-snifffr/" redirect;
+}
+
+location "/how-to-be-successful-at-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/how-to-be-successful-at-selling-used-panties/" redirect;
+}
+
+location "/things-to-know-before-you-buy-used-panties-2/" {
+  rewrite ^(.*)$ "/blog/things-to-know-before-you-buy-used-panties-2/" redirect;
+}
+
+location "/helpful-tips-to-buy-worn-panties-online/" {
+  rewrite ^(.*)$ "/blog/helpful-tips-to-buy-worn-panties-online/" redirect;
+}
+
+location "/tips-on-how-to-buy-used-panties-online-2/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-to-buy-used-panties-online-2/" redirect;
+}
+
+location "/everything-you-need-to-know-about-worn-panties-sale/" {
+  rewrite ^(.*)$ "/blog/everything-you-need-to-know-about-worn-panties-sale/" redirect;
+}
+
+location "/6-tips-to-help-you-sell-dirty-knickers-online/" {
+  rewrite ^(.*)$ "/blog/6-tips-to-help-you-sell-dirty-knickers-online/" redirect;
+}
+
+location "/are-you-looking-to-buy-dirty-knickers/" {
+  rewrite ^(.*)$ "/blog/are-you-looking-to-buy-dirty-knickers/" redirect;
+}
+
+location "/the-history-of-buying-and-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/the-history-of-buying-and-selling-used-panties/" redirect;
+}
+
+location "/satisfying-your-used-panties-fetish/" {
+  rewrite ^(.*)$ "/blog/satisfying-your-used-panties-fetish/" redirect;
+}
+
+location "/are-you-looking-for-dirty-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/are-you-looking-for-dirty-knickers-for-sale/" redirect;
+}
+
+location "/are-you-looking-to-buy-used-knicke/" {
+  rewrite ^(.*)$ "/blog/are-you-looking-to-buy-used-knicke/" redirect;
+}
+
+location "/buying-dirty-panties-on-the-internet/" {
+  rewrite ^(.*)$ "/blog/buying-dirty-panties-on-the-internet/" redirect;
+}
+location "/how-to-land-the-best-panty-deal-as-a-newbie/" {
+  rewrite ^(.*)$ "/blog/how-to-land-the-best-panty-deal-as-a-newbie/" redirect;
+}
+
+location "/tips-for-selling-wet-panties-online/" {
+  rewrite ^(.*)$ "/blog/tips-for-selling-wet-panties-online/" redirect;
+}
+
+location "/why-you-should-buy-used-knickers-online/" {
+  rewrite ^(.*)$ "/blog/why-you-should-buy-used-knickers-online/" redirect;
+}
+
+location "/used-knickers-for-sale-the-dos-and-donts/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-the-dos-and-donts/" redirect;
+}
+
+location "/a-guide-to-sell-used-knickers-online/" {
+  rewrite ^(.*)$ "/blog/a-guide-to-sell-used-knickers-online/" redirect;
+}
+
+location "/buying-wet-panties-user-guide/" {
+  rewrite ^(.*)$ "/blog/buying-wet-panties-user-guide/" redirect;
+}
+
+location "/5-ways-to-sell-your-dirty-panties-for-profit/" {
+  rewrite ^(.*)$ "/blog/5-ways-to-sell-your-dirty-panties-for-profit/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-anonymously/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-anonymously/" redirect;
+}
+
+location "/dirty-panties-for-sale-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-for-sale-on-snifffr/" redirect;
+}
+
+location "/top-notch-points-on-buying-used-underwear/" {
+  rewrite ^(.*)$ "/blog/top-notch-points-on-buying-used-underwear/" redirect;
+}
+
+location "/7-things-to-know-before-buying-or-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/7-things-to-know-before-buying-or-selling-used-underwear/" redirect;
+}
+
+location "/how-to-begin-selling-used-underwear/" {
+  rewrite ^(.*)$ "/blog/how-to-begin-selling-used-underwear/" redirect;
+}
+
+location "/what-to-look-for-when-purchasing-used-underwear-for-sal/" {
+  rewrite ^(.*)$ "/blog/what-to-look-for-when-purchasing-used-underwear-for-sal/" redirect;
+}
+
+location "/how-to-buy-worn-panties-from-a-reliable-platform/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-worn-panties-from-a-reliable-platform/" redirect;
+}
+
+location "/a-great-marketplace-to-sell-worn-panties/" {
+  rewrite ^(.*)$ "/blog/a-great-marketplace-to-sell-worn-panties/" redirect;
+}
+
+location "/diy-tips-for-selling-worn-panties/" {
+  rewrite ^(.*)$ "/blog/diy-tips-for-selling-worn-panties/" redirect;
+}
+
+location "/selling-used-panties-online-can-be-profitable/" {
+  rewrite ^(.*)$ "/blog/selling-used-panties-online-can-be-profitable/" redirect;
+}
+
+location "/diy-tips-plus-useful-guidance-selling-used-women-panties-online/" {
+  rewrite ^(.*)$ "/blog/diy-tips-plus-useful-guidance-selling-used-women-panties-online/" redirect;
+}
+
+location "/buying-and-selling-used-panties-digital-help/" {
+  rewrite ^(.*)$ "/blog/buying-and-selling-used-panties-digital-help/" redirect;
+}
+
+location "/excellent-advice-on-how-to-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/excellent-advice-on-how-to-sell-used-panties-online/" redirect;
+}
+
+location "/buy-used-panties-safely-anonymously-today/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-safely-anonymously-today/" redirect;
+}
+
+location "/reasons-why-people-like-buying-dirty-used-socks-online/" {
+  rewrite ^(.*)$ "/blog/reasons-why-people-like-buying-dirty-used-socks-online/" redirect;
+}
+
+location "/how-to-buy-used-socks-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-used-socks-online-with-snifffr/" redirect;
+}
+
+location "/buy-worn-knickers-for-their-scent/" {
+  rewrite ^(.*)$ "/blog/buy-worn-knickers-for-their-scent/" redirect;
+}
+
+location "/how-to-sell-worn-knickers-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-worn-knickers-with-snifffr/" redirect;
+}
+
+location "/buy-used-socks-and-satisfy-your-fetish-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-socks-and-satisfy-your-fetish-on-snifffr/" redirect;
+}
+
+location "/tips-on-how-to-sell-worn-knickers-for-sale/" {
+  rewrite ^(.*)$ "/blog/tips-on-how-to-sell-worn-knickers-for-sale/" redirect;
+}
+
+location "/used-panties-on-craigslist-or-snifffr/" {
+  rewrite ^(.*)$ "/blog/used-panties-on-craigslist-or-snifffr/" redirect;
+}
+
+location "/extra-advise-on-selling-used-socks/" {
+  rewrite ^(.*)$ "/blog/extra-advise-on-selling-used-socks/" redirect;
+}
+
+location "/socks-fetish-selling-used-socks/" {
+  rewrite ^(.*)$ "/blog/socks-fetish-selling-used-socks/" redirect;
+}
+
+location "/advantages-of-selling-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/advantages-of-selling-used-panties-on-snifffr/" redirect;
+}
+
+location "/buy-used-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/buy-used-panties-online-with-snifffr/" redirect;
+}
+
+location "/buy-worn-panties-how-to-guide/" {
+  rewrite ^(.*)$ "/blog/buy-worn-panties-how-to-guide/" redirect;
+}
+
+location "/worn-panties-for-sale-on-a-trusted-marketplace/" {
+  rewrite ^(.*)$ "/blog/worn-panties-for-sale-on-a-trusted-marketplace/" redirect;
+}
+
+location "/used-panties-for-sale-tips-for-growing-your-worn-panties-empire/" {
+  rewrite ^(.*)$ "/blog/used-panties-for-sale-tips-for-growing-your-worn-panties-empire/" redirect;
+}
+
+location "/six-easy-ways-to-be-a-top-buyer-of-used-underwear/" {
+  rewrite ^(.*)$ "/blog/six-easy-ways-to-be-a-top-buyer-of-used-underwear/" redirect;
+}
+
+location "/looking-for-advice-on-how-to-sell-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/looking-for-advice-on-how-to-sell-used-panties-on-snifffr/" redirect;
+}
+
+location "/helpful-guide-on-how-do-i-sell-used-panties/" {
+  rewrite ^(.*)$ "/blog/helpful-guide-on-how-do-i-sell-used-panties/" redirect;
+}
+
+location "/how-do-i-buy-used-panties-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-do-i-buy-used-panties-with-snifffr/" redirect;
+}
+
+location "/what-you-should-know-before-you-buy-used-underwear/" {
+  rewrite ^(.*)$ "/blog/what-you-should-know-before-you-buy-used-underwear/" redirect;
+}
+
+location "/people-buying-selling-used-underwear-online/" {
+  rewrite ^(.*)$ "/blog/people-buying-selling-used-underwear-online/" redirect;
+}
+
+location "/used-knickers-for-sale-from-all-over-the-world/" {
+  rewrite ^(.*)$ "/blog/used-knickers-for-sale-from-all-over-the-world/" redirect;
+}
+
+location "/sell-dirty-panties-how-to-stay-on-top-of-the-game/" {
+  rewrite ^(.*)$ "/blog/sell-dirty-panties-how-to-stay-on-top-of-the-game/" redirect;
+}
+
+location "/a-beginners-guide-to-selling-used-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/a-beginners-guide-to-selling-used-panties-online-with-snifffr/" redirect;
+}
+
+location "/are-you-looking-for-used-underwear-for-sale/" {
+  rewrite ^(.*)$ "/blog/are-you-looking-for-used-underwear-for-sale/" redirect;
+}
+
+location "/what-makes-online-the-best-place-to-sell-wet-panties/" {
+  rewrite ^(.*)$ "/blog/what-makes-online-the-best-place-to-sell-wet-panties/" redirect;
+}
+
+location "/advice-on-how-to-buy-used-panties-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/advice-on-how-to-buy-used-panties-on-snifffr/" redirect;
+}
+
+location "/buying-smelling-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/buying-smelling-used-panties-online/" redirect;
+}
+
+location "/used-panties-fetish-facts-why-men-love-ladies-used-undies/" {
+  rewrite ^(.*)$ "/blog/used-panties-fetish-facts-why-men-love-ladies-used-undies/" redirect;
+}
+
+location "/why-people-buy-wet-panties-and-the-history-behind-it/" {
+  rewrite ^(.*)$ "/blog/why-people-buy-wet-panties-and-the-history-behind-it/" redirect;
+}
+
+location "/dirty-panties-information-on-snifffr/" {
+  rewrite ^(.*)$ "/blog/dirty-panties-information-on-snifffr/" redirect;
+}
+
+location "/a-step-by-step-guide-for-selling-used-knickers/" {
+  rewrite ^(.*)$ "/blog/a-step-by-step-guide-for-selling-used-knickers/" redirect;
+}
+
+location "/five-reasons-to-buy-used-knickers/" {
+  rewrite ^(.*)$ "/blog/five-reasons-to-buy-used-knickers/" redirect;
+}
+
+location "/how-do-i-sell-used-panties-learn-simple-tips-you-can-use/" {
+  rewrite ^(.*)$ "/blog/how-do-i-sell-used-panties-learn-simple-tips-you-can-use/" redirect;
+}
+
+location "/how-to-buy-dirty-panties-online-with-snifffr/" {
+  rewrite ^(.*)$ "/blog/how-to-buy-dirty-panties-online-with-snifffr/" redirect;
+}
+
+location "/focus-on-selling-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/focus-on-selling-worn-knickers/" redirect;
+}
+
+location "/how-to-sell-worn-knickers-for-additional-income/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-worn-knickers-for-additional-income/" redirect;
+}
+
+location "/worn-knickers-for-sale-the-dos-and-donts-every-seller-should-know/" {
+  rewrite ^(.*)$ "/blog/worn-knickers-for-sale-the-dos-and-donts-every-seller-should-know/" redirect;
+}
+
+location "/the-dos-and-donts-for-buying-worn-knickers/" {
+  rewrite ^(.*)$ "/blog/the-dos-and-donts-for-buying-worn-knickers/" redirect;
+}
+
+location "/how-sell-dirty-knickers-online-successfully/" {
+  rewrite ^(.*)$ "/blog/how-sell-dirty-knickers-online-successfully/" redirect;
+}
+
+location "/buy-dirty-knickers-fulfill-your-fetish-desires/" {
+  rewrite ^(.*)$ "/blog/buy-dirty-knickers-fulfill-your-fetish-desires/" redirect;
+}
+
+location "/the-trusted-marketplace-for-selling-dirty-snickers/" {
+  rewrite ^(.*)$ "/blog/the-trusted-marketplace-for-selling-dirty-snickers/" redirect;
+}
+
+location "/the-tale-of-buying-used-socks/" {
+  rewrite ^(.*)$ "/blog/the-tale-of-buying-used-socks/" redirect;
+}
+
+location "/insights-about-used-socks-fetish/" {
+  rewrite ^(.*)$ "/blog/insights-about-used-socks-fetish/" redirect;
+}
+
+location "/information-on-the-online-used-socks-fetish-craze/" {
+  rewrite ^(.*)$ "/blog/information-on-the-online-used-socks-fetish-craze/" redirect;
+}
+
+location "/buying-used-panties-on-craigslist-or-snifffr/" {
+  rewrite ^(.*)$ "/blog/buying-used-panties-on-craigslist-or-snifffr/" redirect;
+}
+
+location "/how-to-ace-the-art-of-selling-used-socks/" {
+  rewrite ^(.*)$ "/blog/how-to-ace-the-art-of-selling-used-socks/" redirect;
+}
+
+location "/three-reasons-to-buy-used-panties/" {
+  rewrite ^(.*)$ "/blog/three-reasons-to-buy-used-panties/" redirect;
+}
+
+location "/fart-fetish-what-is-it/" {
+  rewrite ^(.*)$ "/blog/fart-fetish-what-is-it/" redirect;
+}
+
+location "/the-perks-that-come-with-learning-how-to-sell-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/the-perks-that-come-with-learning-how-to-sell-used-panties-online/" redirect;
+}
+
+location "/how-to-start-selling-used-panties/" {
+  rewrite ^(.*)$ "/blog/how-to-start-selling-used-panties/" redirect;
+}
+
+location "/how-to-sell-worn-panties-have-fun/" {
+  rewrite ^(.*)$ "/blog/how-to-sell-worn-panties-have-fun/" redirect;
+}
+
+location "/tips-to-use-when-selling-your-worn-panties/" {
+  rewrite ^(.*)$ "/blog/tips-to-use-when-selling-your-worn-panties/" redirect;
+}
+
+location "/where-and-why-buy-used-panties-online/" {
+  rewrite ^(.*)$ "/blog/where-and-why-buy-used-panties-online/" redirect;
+}
+
+location = /server-status {
+}
+
+location = /index.php { }
